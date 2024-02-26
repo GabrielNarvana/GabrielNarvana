@@ -1,7 +1,6 @@
 # 💫 Sobre mim:
 Desenvolvedor Full Stack Pleno com 3 anos de experiência com .NET / C#, Angular e React<br>no mercado financeiro atuando em projetos de automatização de rotinas, refatoração de processos, desenvolvimento de novas funções, manutenção e melhorias de código.<br><br>Bacharel de Sistemas da Informação na Faculdade das Américas.<br><br>Ja tive a oportunidade de trabalhar com React e Angular para o front-end, e com C# usando o .NET Core para o back-end, já participei do desenvolvimento de microsserviços tanto usando os ORM's Dapper quanto Entity Framework e com relação a bancos relacionais ja usei SQL Server, Oracle, PostgreSQL.<br>E me aprofundei bastante no gerenciamento com o Azure DevOps.
 
-
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldejesusleite/) 
 
@@ -13,7 +12,9 @@ Desenvolvedor Full Stack Pleno com 3 anos de experiência com .NET / C#, Angular
 
 ### ✍️ Citações de Devs
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<iframe src="https://giphy.com/embed/kPVTbiTORIopy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-kPVTbiTORIopy">via GIPHY</a></p>
+
+[![Giphy](https://giphy.com/gifs/hacker-kPVTbiTORIopy)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=GabrielNarvana&icon=5&color=6)](https://visitcount.itsvg.in)
 
