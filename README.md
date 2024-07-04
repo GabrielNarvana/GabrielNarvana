@@ -14,8 +14,6 @@ Desenvolvedor Full Stack Pleno com 4 anos de experiência com .NET / C#, Angular
 ### ✍️ Citações de Devs
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br />
-![Hackerman(https://giphy.com/embed/kPVTbiTORIopy)](https://giphy.com/embed/kPVTbiTORIopy)
-<br />
 [![](https://visitcount.itsvg.in/api?id=GabrielNarvana&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
